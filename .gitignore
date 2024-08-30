@@ -9,3 +9,12 @@ out/
 
 # Ignore .vscode folder
 .vscode/
+
+# Ignore all .pyc files
+**/*.pyc
+
+# Ignore all __pycache__ directories
+**/__pycache__/
+
+#Ignore all the images
+image/
