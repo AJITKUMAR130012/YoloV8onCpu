@@ -1,0 +1,11 @@
+# Ignore MP4 files
+*.mp4
+
+# Ignore TXT files
+*.txt
+
+# Ignore out folder
+out/
+
+# Ignore .vscode folder
+.vscode/
